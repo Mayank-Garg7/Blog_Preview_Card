@@ -21,7 +21,7 @@ body {
     background-color: hsl(0, 8%, 90%); /* Background color for the container */
     border: 1px solid black;
     border-radius: 10px;
-    box-shadow: 15px 15px 10px rgb(10, 9, 9); /* Box shadow for a subtle lift */
+    box-shadow: 0px 15px 10px rgb(10, 9, 9); /* Box shadow for a subtle lift */
 }
 
 /* Remove box shadow on hover for a cleaner look */

@@ -13,7 +13,7 @@ body {
 /* Style for the main container of the blog preview card */
 .container {
     margin: auto; /* Center the container horizontally */
-    margin-top: 9%; /* Add top margin for spacing */
+    margin-top: 80px; /* Add top margin for spacing */
     padding: 15px;
     height: auto; /* Allow the container to adjust its height based on content */
     width: 90%; /* Set the initial width of the container */

@@ -26,8 +26,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 400px; /* Set initial and maximum width of the container */
-    min-width: 350px;
+    width: 350px; /* Set initial and maximum width of the container */
+    height: 32rem;
+    min-width: 300px;
     background-color: hsl(0, 0%, 100%); /* Background color for the container */
     border: 1px solid black;
     border-radius: 10px;
@@ -44,11 +45,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .images {
     border-radius: 10px;
-    width: 100%;
+    width: 20rem;
 }
 
 /* Styles for the button inside the container */

@@ -28,7 +28,7 @@ body {
     align-items: center;
     width: 370px; /* Set initial and maximum width of the container */
     height: 33rem;
-    min-width: 300px;
+    min-width: 370px;
     background-color: hsl(0, 0%, 100%); /* Background color for the container */
     border: 1px solid black;
     border-radius: 20px;
